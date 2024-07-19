@@ -35,6 +35,4 @@ This Chrome extension displays a random Bhagavad Gita verse when clicked.
 
 Feel free to fork this repository and make contributions. Pull requests are welcome.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
